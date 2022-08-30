@@ -2,7 +2,7 @@
 
 build with go
 
-##TATA CARA MENJALANKAN PROGRAM
+## TATA CARA MENJALANKAN PROGRAM
 **IMPORTANT!** first run installation, it is required to run the seeder.
 1. Clone repository atau download zip
 2.Setelah terclone atau terdownload buka menggunakan text editor kesayangan anda
