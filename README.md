@@ -16,3 +16,9 @@ https://www.getpostman.com/collections/8b7abf490dad7fd0b226
 ```
 5. Silahkan test atau jalankan sesuai yang anda inginkan
 6. Selesai
+
+## KEPUTUSAN TEKNIS
+Keputusan teknis yang saya peroleh dari pengerjaan project resume ini adalah aplikasi berjalan dengan normal semestinya dan harapanya dapat membantu untuk kepentingan orang banyak.
+
+## KOMENTAR 
+saya berpendapat bahwa aplikasi yang saya buat sudah memenuhi kriteria yang diberikan dan besar harapan saya bisa bergabung di perusahaan yang bapak atau ibu pimpin.
