@@ -5,7 +5,7 @@ build with go
 ## TATA CARA MENJALANKAN PROGRAM
 **IMPORTANT!** jika ingin menggunakan database baru, bisa jalankan seeder atau migration dengan masuk ke folder migration kemudian jalankan ```go run main.go``` maka akan tergenerate database baru
 1. Clone repository atau download zip
-2.Setelah terclone atau terdownload buka menggunakan text editor kesayangan anda
+2. Setelah terclone atau terdownload buka menggunakan text editor kesayangan anda
 3. Buka terminal pada folder project tersebut, kemudian jalankan perintah
 ```json
 go run main.go
